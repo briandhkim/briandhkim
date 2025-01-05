@@ -1,10 +1,6 @@
 ## Let's make things happen
 
 <hr />
-<img src="http://profile-counter.glitch.me/briandhkim/count.svg" />
-
-<hr />
-
 
 ![views since 2025/01/05](https://visitor-badge-deno.deno.dev/briandhkim.briandhkim.svg)
 <!--
