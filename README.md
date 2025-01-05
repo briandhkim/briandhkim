@@ -3,6 +3,10 @@
 <hr />
 <img src="http://profile-counter.glitch.me/briandhkim/count.svg" />
 
+<hr />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=briandhkim.briandhkim&left_color=green&right_color=red)
+
 <!--
 **briandhkim/briandhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
