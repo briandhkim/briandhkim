@@ -5,7 +5,11 @@
 
 <hr />
 
+
+![views since 2025/01/05](https://visitor-badge-deno.deno.dev/briandhkim.briandhkim.svg)
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=briandhkim.briandhkim&left_color=green&right_color=red)
+-->
 
 <!--
 **briandhkim/briandhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
