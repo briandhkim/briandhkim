@@ -10,8 +10,7 @@
 
 <hr />
 
-![views since 2025/01/05](https://visitor-badge-deno.deno.dev/briandhkim.briandhkim.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=briandhkim.briandhkim&left_color=green&right_color=red)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=briandhkim.briandhkim)
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=briandhkim.briandhkim&left_color=green&right_color=red)
 -->
